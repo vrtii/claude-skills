@@ -1,0 +1,13 @@
+{
+  "name": "cv-review",
+  "version": "1.0.0",
+  "description": "Four-stage CV/resume review pipeline: diagnose, recruiter screen, hiring-manager read, rewrite.",
+  "author": {
+    "name": "Dávid Sámoczi",
+    "url": "https://samoczi.com"
+  },
+  "homepage": "https://github.com/vrtii/claude-skills",
+  "repository": "https://github.com/vrtii/claude-skills",
+  "license": "Apache-2.0",
+  "keywords": ["cv", "resume", "ats", "career", "hiring"]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "samoczi-skills",
+  "owner": {
+    "name": "Dávid Sámoczi",
+    "url": "https://samoczi.com"
+  },
+  "metadata": {
+    "description": "Claude skills by Dávid Sámoczi",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "cv-review",
+      "source": "./plugins/cv-review",
+      "description": "Four-stage CV/resume review pipeline: diagnose, recruiter screen, hiring-manager read, rewrite.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["cv", "resume", "ats", "career", "hiring"]
+    }
+  ]
+}
